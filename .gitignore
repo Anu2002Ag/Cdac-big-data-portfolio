@@ -1,0 +1,36 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+
+# Logs & temporary files
+*.log
+*.tmp
+*.temp
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Java
+*.class
+target/
+out/
+
+# Hadoop / Spark temporary files
+tmp/
+temp/
+logs/
+
+# IDE / Editor
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Large generated data
+*.parquet
+*.orc
